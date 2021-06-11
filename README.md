@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+development+and+online+exploration)](https://git.io/typing-svg)
+
 <!--
 **briceholland/briceholland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
