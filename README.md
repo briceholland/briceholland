@@ -8,6 +8,5 @@
 - 👯 I’m looking to collaborate on exciting technology projects!
 - 🤔 I’m looking for help with Ruby on Rails.
 - 💬 Ask me about GitHub, business management, stocks or any 90's era cartoon.
-- 📫 How to reach me: briceholland@github.com
 - ⚡ Fun fact: I used to create stick figure animations and began coding in [ActionScript](https://en.wikipedia.org/wiki/ActionScript) early-on. When I needed to find a place to host the animations, I turned to server administration!
 
