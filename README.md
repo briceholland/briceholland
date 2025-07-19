@@ -1,12 +1,37 @@
-### Hi there 👋
+I'm **Brice** — a Staff Customer Reliability Engineer focused on premium customer experience and technical excellence within [GitHub Premium Support](https://github.com/premium-support). My journey started with stick figure animations and ActionScript, and evolved into system administration, scripting, and full-stack development.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+development!)](https://git.io/typing-svg)
+---
 
+### 🛠️ What I'm Working On
 
-- 🔭 I’m currently working on building a better GitHub within [Premium Support](https://github.com/premium-support)
-- 🌱 I’m currently learning NodeJS & MongoDB.
-- 👯 I’m looking to collaborate on exciting technology projects!
-- 🤔 I’m looking for help with Ruby on Rails.
-- 💬 Ask me about GitHub, business management, stocks or any 90's era cartoon.
-- ⚡ Fun fact: I used to create stick figure animations and began coding in [ActionScript](https://en.wikipedia.org/wiki/ActionScript) early-on. When I needed to find a place to host the animations, I turned to server administration!
+- 🚀 Building internal tools and workflows to **level-up GitHub Premium Support**  
+- ⚙️ Enhancing customer success by bridging **engineering, business strategy, and support**
+- 📈 Exploring smart ways to generate **steady cash flow and automate side hustles**
 
+### 🌱 Currently Learning & Using
+
+- **Node.js**, **Express**, **MongoDB**, and **MySQL** for app development  
+- **KQL**, **Splunk**, **GraphQL**, and **GitHub APIs** to drive observability and automation  
+- Experimenting with **AI tooling**, **React**, and dashboard design
+
+### 💡 I Can Help With
+
+- 🧩 GitHub Enterprise and Infrastructure Ops  
+- 📊 Business management and financial investing strategies  
+- 🧠 Building dashboards, workflows, and support playbooks  
+- 📺 90’s cartoons, 1337 gfx, or Hot Wheels resale tips
+
+### 🧪 Fun Bits
+
+- 🎮 Occassional Twitch Streaming; mostly [Spelunky 2](https://store.steampowered.com/app/418530/Spelunky_2/)
+- 🎬 Used to animate stick figures in Flash (R.I.P.)  
+- 🛠️ Got into system administration just to host my own animated content  
+- 🍳 I love cooking, prepping kid-friendly meals, and discovering hidden gem restaurants  
+- 🏍️ Weekend rides, golf swings, and trail hikes keep me recharged
+
+### 🤝 Let’s Collaborate
+
+I’m always down to explore:
+- Tech-for-good projects  
+- Data visualization and ops automation  
+- Kid-friendly games or educational apps
