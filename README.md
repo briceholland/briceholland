@@ -4,9 +4,9 @@ I'm **Brice** — a Staff Customer Reliability Engineer focused on premium custo
 
 ### 🛠️ What I'm Working On
 
-- 🚀 Building internal tools and workflows to **level-up GitHub Premium Support**  
-- ⚙️ Enhancing customer success by bridging **engineering, business strategy, and support**
-- 📈 Exploring smart ways to generate **steady cash flow and automate side hustles**
+- 🚀 Building internal tools and workflows as a **Customer Reliability Engineer** for GitHub Support
+- ⚙️ Enhancing customer success by bridging **engineering, business strategy, and support** across Organizations
+- 📈 Building smart ways to generate **cash flow and AI influenced** businesses
 
 ### 🌱 Currently Learning & Using
 
