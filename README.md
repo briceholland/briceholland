@@ -1,4 +1,4 @@
-I'm **Brice** — a Staff Customer Reliability Engineer focused on premium customer experience and technical excellence within [GitHub Premium Support](https://github.com/premium-support). My journey started with stick figure animations and ActionScript, and evolved into system administration, scripting, and full-stack development.
+I'm **Brice** — a Staff Customer Reliability Engineer focused on premium customer experience and technical excellence within [Customer Reliability Engineering](https://github.com/premium-support). My journey started with stick figure animations and ActionScript, and evolved into system administration, scripting, and full-stack development.
 
 ---
 
