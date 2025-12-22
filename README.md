@@ -1,4 +1,4 @@
-I'm **Brice** — a Staff CRE focused on premium customer experience and technical excellence within [Customer Reliability Engineering](https://github.com/premium-support). My journey started with stick figure animations and ActionScript, and evolved into system administration, scripting, and full-stack development.
+I'm **Brice** — a father, Hubber, experienced entreprenuer, and IT guru. I'm currently focused on premium customer experience and technical excellence within the [Customer Reliability Engineering](https://github.com/premium-support) team at GitHub. My journey started with stick figure animations and ActionScript, and evolved into system administration, scripting, and full-stack development.
 
 ---
 
